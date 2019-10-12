@@ -4,7 +4,7 @@
  
  EXERCISE 1 : DETECTS SPOTS OF COLOR IN AN IMAGE (STREAM)
  
- ![](Exercise%201/green-color-spot.png)
+ ![](Exercise%201/green-color.png)
  
  EXERCISE 2 : DETECT FACE IN AN IMAGE (STREAM) 
                DETECT EYES IN THE FACE 
