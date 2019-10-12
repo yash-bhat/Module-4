@@ -25,4 +25,4 @@
  
  Using the OpenCV dnn module + pretrained MobileNetSSD caffemodel.
  
- ![](Module-4/blob/master/Object%20Detection/OD.gif)
+ ![](Object%20Detection/OD.gif)
