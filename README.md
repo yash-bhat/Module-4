@@ -17,6 +17,6 @@
  #### EXERCISE 3 : 
   Detect upper body in an image
   
-    Detect face in an image
+  Detect face in an image
     
-      Detect eyes in the face 
+  Detect eyes in the face 
