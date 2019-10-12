@@ -2,17 +2,17 @@
 
  # Module-4 : Computer Vision
  
- ## EXERCISE 1 : 
- DETECTS SPOTS OF COLOR IN AN IMAGE (STREAM)
- GREEN:
+ ### EXERCISE 1 : 
+ Detect spots of color in an image
+  GREEN:
  
  ![](Exercise%201/green-color.png)
  
  ## EXERCISE 2 : 
- DETECT FACE IN AN IMAGE (STREAM) 
-   DETECT EYES IN THE FACE 
+  Detect face in an image
+   Detect eyes in the face 
  
  ## EXERCISE 3 : 
- DETECT UPPER BODY IN AN IMAGE (STREAM)
-    DETECT FACE IN THE UPPER BODY
-       DETECT EYES IN THE FACE
+  Detect upper body in an image
+    Detect face in an image
+      Detect eyes in the face 
