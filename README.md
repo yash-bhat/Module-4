@@ -1,3 +1,14 @@
 # CSc 4120/6120
 
  Module-4 : Computer Vision
+ 
+ EXERCISE 1 : DETECTS SPOTS OF COLOR IN AN IMAGE (STREAM)
+ 
+ ![](Exercise%201/green-color-spot.png)
+ 
+ EXERCISE 2 : DETECT FACE IN AN IMAGE (STREAM) 
+               DETECT EYES IN THE FACE 
+ 
+ EXERCISE 3 : DETECT UPPER BODY IN AN IMAGE (STREAM)
+                DETECT FACE IN THE UPPER BODY
+                  DETECT EYES IN THE FACE
