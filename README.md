@@ -25,4 +25,10 @@
  
  Using the OpenCV dnn module + pretrained MobileNetSSD caffemodel.
  
+ The list of class labels MobileNet SSD was trained to detect:
+ CLASSES = ["background", "aeroplane", "bicycle", "bird", "boat",
+	"bottle", "bus", "car", "cat", "chair", "cow", "diningtable",
+	"dog", "horse", "motorbike", "person", "pottedplant", "sheep",
+	"sofa", "train", "tvmonitor"]
+ 
  ![](Object%20Detection/OD.gif)
